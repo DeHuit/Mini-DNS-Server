@@ -32,6 +32,7 @@ LOCAL -- bob.univ-tlse3.fr?-->AUTH((Subdomain DNS server))
 AUTH -- 130.120.80.4 --> LOCAL
 ```
 
+If you are seeing a mess instead of image, follow [this link](https://pp.userapi.com/c830708/v830708548/785aa/SbtpF5j5Hxg.jpg).
  1.  If site address is not found in cache, your computer starts to make requests of address resolution to your **local** DNS server.
  2. **Local** DNS server starts with request to **root** (*.fr*) server about location of the **TLD** server, responsible for french zone
  3. **Local** server now is capable to resolve site location of *univ-tlse3* domain by requesting it from **TLD** server
