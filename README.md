@@ -1,4 +1,4 @@
-Mini DNS server project
+﻿Mini DNS server project
 ===================
 What DNS server has to do? Right, take URL and transform it to some IP address.  This project is a demonstration of how it works
 -------------------
@@ -51,10 +51,10 @@ Make sure you have gcc installed and just enter
 |--|--|--|
 | dns_client | makes request to local DNS server
 |dns_server_v0| implementation of authority server (3rd in hierarchy)|
-|dns_server_v1| implementation of TLD/ROOT server using UDP protocol
-|dns_server_local_v1| implementation of local DNS server using UDP protocol
-|dns_server_v2| implementation of TLD/ROOT server using TCP protocol
-|dns_server_local_v2| implementation of local DNS server using TCP protocol
+|dns_server_v1| implementation of TLD/ROOT server using UDP protocol|
+|dns_server_local_v1| implementation of local DNS server using UDP protocol|
+|dns_server_v2| implementation of TLD/ROOT server using TCP protocol|
+|dns_server_local_v2| implementation of local DNS server using TCP protocol|
 
 Launching & Usage
 -------------
